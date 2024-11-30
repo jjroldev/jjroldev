@@ -75,7 +75,7 @@ Hola, soy **Justyn Roldán**, estudiante de **Ingeniería en Computación** en [
 - **Python**: Creación de un intérprete con ayuda del módulo PLY
 - **JavaScript**: Implementación de funcionalidades interactivas para páginas web.
 - **HTML y CSS**: Diseño y desarrollo de sitios web.  
-- - **Java**: Desarrollo de proyectos en conjunto con JavaFX.  
+- **Java**: Desarrollo de proyectos en conjunto con JavaFX.  
 - **PostgreSQL**: Gestión de bases de datos relacionales.  
 - **Git**: Control de versiones y colaboración en equipo.
 
